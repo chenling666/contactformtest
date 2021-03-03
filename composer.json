@@ -1,0 +1,16 @@
+{
+    "name": "chenl/contactform",
+    "description": "A contact form package for laravel",
+    "authors": [
+        {
+            "name": "chenl",
+            "email": "chenling@think-land.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Chenl\\Contactform\\": "src/"
+        }
+    }
+}
